@@ -2,17 +2,6 @@
 
 Welcome to **aws-scripts**! This repository contains a collection of Python and Shell scripts designed to simplify and automate tasks on AWS Cloud. Whether you're managing EC2 instances, running commands via SSM, invoking Lambda functions, or gathering quick insights, these scripts have you covered.
 
-## 📚 Table of Contents
-- [Overview](#overview)
-- [Prerequisites](#prerequisites)
-- [Scripts](#scripts)
-  - [SSM Scripts](#ssm-scripts)
-  - [Lambda Tools](#lambda-tools)
-  - [Monitoring & Insights](#monitoring--insights)
-- [Usage](#usage)
-- [Contributing](#contributing)
-- [License](#license)
-
 ## 🚀 Overview
 This repository is designed to:
 - Provide ready-to-use Python and Shell scripts for common AWS tasks.
@@ -30,7 +19,7 @@ Ensure you have the following set up before using these scripts:
 
 Clone the repository:
 ```bash
-git clone https://github.com/yourusername/aws-scripts.git
+git clone https://github.com/princeisaacteli/aws-scripts.git
 cd aws-scripts
 ```
 
